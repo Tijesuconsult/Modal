@@ -16,7 +16,7 @@ body{
     border-radius: 5px;
     display: none;
 }
-h2{
+h3{
     margin-bottom: 20px;
     margin-left: 20px;
     padding-top: 10px;
@@ -66,14 +66,15 @@ button{
     border-color: transparent;
 }
 @media(max-width:725px){
-    h2{
-       font-size: 16px;   
+    h3{
+       font-size: 14px;   
     }
     i{
-        margin-left: 250px; 
+        margin-left: 240px; 
     }
     p{
         margin-left: 10px;
         margin-right: 10px;
     }
+   
 }
