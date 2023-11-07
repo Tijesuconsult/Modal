@@ -24,10 +24,12 @@ h2{
 
 .close{
     display: flex;
-    gap: 200px;
+    /* gap: 200px; */
+    
 }
 i{
     font-size: 20px;
+    margin-left: 200px;
 }
 .cls{
     background-color: transparent;
@@ -62,4 +64,7 @@ button{
     background-color: rgb(28, 28, 224);
     border-radius: 5px;
     border-color: transparent;
+}
+@media(max-width:725px){
+
 }
