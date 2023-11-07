@@ -66,5 +66,14 @@ button{
     border-color: transparent;
 }
 @media(max-width:725px){
-
+    h2{
+       font-size: 16px;   
+    }
+    i{
+        margin-left: 250px; 
+    }
+    p{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
